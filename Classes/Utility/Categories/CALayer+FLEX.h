@@ -8,8 +8,8 @@
 
 #import <QuartzCore/QuartzCore.h>
 
-@interface CALayer (FLEX)
-
-@property (nonatomic) BOOL flex_continuousCorners;
-
-@end
+//@interface CALayer (FLEX)
+//
+//@property (nonatomic) BOOL flex_continuousCorners;
+//
+//@end
